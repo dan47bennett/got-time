@@ -2,8 +2,13 @@
 This project is a simple todo list.
 
 
-The deliverables are as follows (list will expand as project progresses):
-- [ ] Simple Todo list with inputs from the user with the task and amount of time needed.
+The deliverables are as follows:
+- Simple database for tasks.
+- Ability to input tasks.
+- Display of tasks, deadline, time taken etc.
+- Attractive UI.
+- Firebase deployment.
+- CI integration.
 
 
 The project will be built in React and hosted on Firebase, with CI to deploy on merge to master.
